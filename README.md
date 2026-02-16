@@ -45,15 +45,14 @@ Tournament contains following stages:
 
 # Prize Pool
 
-Total Prize Pool of Main event is 1.500.000 RUB (one and a half million rubles) - 19 435 United States Dollars 
+Total Prize Pool of **Main event** is 1.500.000 RUB *(one and a half million rubles)* - **19 435 USD**
 
-1 st place — 9 718 USD
-
-2nd place — 4 535 USD
-
-3rd place — 3 239 USD
-
-4th place — 1 943 USD
+| Place | Prize |
+| --- | --- |
+|1 st place | 9 718 USD |
+| 2nd place | 4 535 USD |
+| 3rd place | 3 239 USD |
+| 4th place | 1 943 USD |
 
 # Open Qualifiers Rules
 
@@ -69,7 +68,7 @@ Total Prize Pool of Main event is 1.500.000 RUB (one and a half million rubles) 
 
 *Main event rulebook will be shared with teams no later than 3rd of March 2026.*
 
-# Disqualification Policy 
+# Disqualification and Technical Defeat Policy 
 
-
+[Disqualification and Technical Defeat Policy](disqualification-and-technical-defeat-policy.md)
 
