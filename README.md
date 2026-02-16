@@ -4,6 +4,12 @@
   <img src="images/png.png" >
 </p>
 
+# Tournament Format
+Tournament contains following stages:
+
+- Open Qualifiers Stage - All teams (Online - 27th of February - 2nd of March 2026)
+- Main Event Group Stage - Best 8 teams from Open Qualifiers (Online - 6 - 9th of March 2026)
+- Main event LAN Grand-Final - Best 2 teams from Main Event Group Stage (LAN - 22nd of March 2026, Moscow, Russia)
 
 # Open Qualifiers
 Open Qualifier №1 - 2 teams advance to the main stage - 27th of February 2026 
@@ -36,3 +42,9 @@ Open Qualifier №3 - 2 teams advance to the main stage - 2nd of March 2026
 # Rulebook
 
 [Full tournament rulebook](google.com)
+
+# Visa/Location
+
+Visa region: Russian Federation
+
+LAN Stage location: Moscow, Russian Federation
