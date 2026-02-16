@@ -1,4 +1,4 @@
-# CIS Esports League announcement and additional info
+# Esports League Super Cup announcement and additional info
 
 <p align="center">
   <img src="images/png.png" >
