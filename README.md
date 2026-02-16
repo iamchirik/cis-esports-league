@@ -50,7 +50,7 @@ Open Qualifier №3 - 2 teams advance to the main stage - 2nd of March 2026
 
 # Open Qualifiers Rules
 
-[Open Qualifiers Rules] (https://github.com/iamchirik/cis-esports-league/blob/main/open-quals-rules.md)
+[Open Qualifiers Rules](open-quals-rules.md)
 
 # Visa/Location
 
