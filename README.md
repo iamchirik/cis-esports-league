@@ -9,7 +9,9 @@
 
 - **Tournament VRS Tier** - VRS Tier 2 
 
-- **VRS publication date used for seeding:** March 2026  
+- **VRS publication date used for seeding:** March 2026
+
+- An official application will be submitted to HLTV.org for VRS inclusion. Please note that HLTV.org makes the final decision on which matches count towards the ranking.
 
 
 # Tournament Format
@@ -28,19 +30,19 @@ Tournament contains following stages:
 
 **Open Qualifier №1 - 2 teams advance to the main stage - 27th of February 2026**
 
-[Registration link](https://www.faceit.com/ru/championship/958e17ee-1a46-4366-b40e-d808ef3c40fb/CIS%20Esports%20League%20%7C%20CS2%20Open%20Qualifier)
+[Registration link](https://www.faceit.com/ru/championship/958e17ee-1a46-4366-b40e-d808ef3c40fb/Esports%20League%20Super%20Cup%20%7C%20CS2%20First%20Open%20Qualifier)
 
 **Open Qualifier №2 - 2 teams advance to the main stage - 28th of February 2026**
 
-[Registration link](https://www.faceit.com/ru/championship/958e17ee-1a46-4366-b40e-d808ef3c40fb/CIS%20Esports%20League%20%7C%20CS2%20Open%20Qualifier)
+[Registration link](https://www.faceit.com/ru/championship/a47bd7d0-dce6-4071-9eb6-66f4f62f3527/Esports%20League%20Super%20Cup%20%7C%20CS2%20Second%20Open%20Qualifier)
 
 **Open Qualifier №3 - 2 teams advance to the main stage - 1st of March 2026**
 
-[Registration link](https://www.faceit.com/ru/championship/958e17ee-1a46-4366-b40e-d808ef3c40fb/CIS%20Esports%20League%20%7C%20CS2%20Open%20Qualifier)
+[Registration link](https://www.faceit.com/ru/championship/88d381a7-b737-4578-b7b9-086aeb20e0ce/Esports%20League%20Super%20Cup%20%7C%20CS2%20Third%20Open%20Qualifier)
 
 **Open Qualifier №3 - 2 teams advance to the main stage - 2nd of March 2026** 
 
-[Registration link](https://www.faceit.com/ru/championship/958e17ee-1a46-4366-b40e-d808ef3c40fb/CIS%20Esports%20League%20%7C%20CS2%20Open%20Qualifier)
+[Registration link](https://www.faceit.com/ru/championship/7ab4bb29-db38-439a-a5d2-8d3e9b303b8b/Esports%20League%20Super%20Cup%20%7C%20CS2%20Fourth%20Open%20Qualifier)
 
 
 # Prize Pool
