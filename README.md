@@ -48,9 +48,9 @@ Open Qualifier №3 - 2 teams advance to the main stage - 2nd of March 2026
 
 4th place — 1943 USD
 
-# Rulebook
+# Open Qualifiers Rules
 
-[Full tournament rulebook](google.com)
+[Open Qualifiers Rules] (https://github.com/iamchirik/cis-esports-league/blob/main/open-quals-rules.md)
 
 # Visa/Location
 
