@@ -4,6 +4,13 @@
   <img src="images/png.png" >
 </p>
 
+
+# Tournament info
+
+**Tournament VRS Tier** - VRS Tier 2 
+**VRS publication date used for seeding:** March 2026  
+
+
 # Tournament Format
 Tournament contains following stages:
 
@@ -48,3 +55,4 @@ Open Qualifier №3 - 2 teams advance to the main stage - 2nd of March 2026
 Visa region: Russian Federation
 
 LAN Stage location: Moscow, Russian Federation
+
