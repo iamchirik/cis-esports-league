@@ -9,6 +9,7 @@
 
 **Tournament VRS Tier** - VRS Tier 2 
 
+
 **VRS publication date used for seeding:** March 2026  
 
 
