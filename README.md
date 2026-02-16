@@ -69,7 +69,7 @@ Total Prize Pool of Main event is 1.500.000 RUB (one and a half million rubles) 
 
 *Main event rulebook will be shared with teams no later than 3rd of March 2026.*
 
-# Discvalification Policy 
+# Disqualification Policy 
 
 
 
